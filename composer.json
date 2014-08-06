@@ -1,0 +1,12 @@
+{
+	"name": "npmweb/object-transformer",
+	"description": "Interface for transforming objects from one representation to another.",
+	"type": "library",
+	"license": "MIT",
+	"autoload": {
+		"psr-0": {
+			"NpmWeb\\ObjectTransformer\\": "src/",
+			"NpmWeb\\Test\\": "tests/"
+		}
+	}
+}
